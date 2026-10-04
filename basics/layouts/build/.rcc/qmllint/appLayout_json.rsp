@@ -1,0 +1,16 @@
+--bare
+-I
+/home/baraka/Code/learning/cpp/qml/basics/layouts/build
+-I
+/home/baraka/Code/learning/cpp/qml/basics/layouts/build/Layout
+-I
+/home/baraka/Code/learning/cpp/qml/basics/layouts/build
+-I
+/usr/lib/qt6/qml
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/layouts/build/.qt/rcc/qmake_Layout.qrc
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/layouts/build/.qt/rcc/appLayout_raw_qml_0.qrc
+/home/baraka/Code/learning/cpp/qml/basics/layouts/Main.qml
+--json
+/home/baraka/Code/learning/cpp/qml/basics/layouts/build/appLayout_qmllint.json

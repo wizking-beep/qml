@@ -1,0 +1,9 @@
+-rootPath
+/home/baraka/Code/learning/cpp/qml/basics/trees
+-cmake-output
+-output-file
+/home/baraka/Code/learning/cpp/qml/basics/trees/build/.qt/qml_imports/appobject_build.cmake
+-importPath
+/home/baraka/Code/learning/cpp/qml/basics/trees/build
+-importPath
+/usr/lib/qt6/qml

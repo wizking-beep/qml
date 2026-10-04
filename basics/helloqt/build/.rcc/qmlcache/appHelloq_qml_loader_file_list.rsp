@@ -1,0 +1,5 @@
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/helloqt/build/.qt/rcc/qmake_Hello.qrc
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/helloqt/build/.qt/rcc/appHelloq_raw_qml_0.qrc
+/qt/qml/Hello/Main.qml

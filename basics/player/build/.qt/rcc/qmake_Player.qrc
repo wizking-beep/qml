@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Player">
+    <file alias="qmldir">/home/baraka/Code/learning/cpp/qml/basics/player/build/Player/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,14 @@
+-rootPath
+/home/baraka/Code/learning/cpp/qml/testing
+-cmake-output
+-output-file
+/home/baraka/Code/learning/cpp/qml/build/.qt/qml_imports/appHelloQML_build.cmake
+-importPath
+/home/baraka/Code/learning/cpp/qml/build
+-importPath
+/home/baraka/Code/learning/cpp/qml/build/MainModule
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/baraka/Code/learning/cpp/qml/build/.qt/rcc/qmake_MainModule.qrc
+/home/baraka/Code/learning/cpp/qml/build/.qt/rcc/appHelloQML_raw_qml_0.qrc

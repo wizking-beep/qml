@@ -1,0 +1,14 @@
+-rootPath
+/home/baraka/Code/learning/cpp/qml/basics/signals
+-cmake-output
+-output-file
+/home/baraka/Code/learning/cpp/qml/basics/signals/build/.qt/qml_imports/appsignals_build.cmake
+-importPath
+/home/baraka/Code/learning/cpp/qml/basics/signals/build
+-importPath
+/home/baraka/Code/learning/cpp/qml/basics/signals/build/signals
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/baraka/Code/learning/cpp/qml/basics/signals/build/.qt/rcc/qmake_signals.qrc
+/home/baraka/Code/learning/cpp/qml/basics/signals/build/.qt/rcc/appsignals_raw_qml_0.qrc

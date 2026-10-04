@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/signals">
+    <file alias="qmldir">/home/baraka/Code/learning/cpp/qml/basics/signals/build/signals/qmldir</file>
+  </qresource>
+</RCC>
+

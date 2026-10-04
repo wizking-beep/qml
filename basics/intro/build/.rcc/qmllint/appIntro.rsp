@@ -1,0 +1,14 @@
+--bare
+-I
+/home/baraka/Code/learning/cpp/qml/basics/intro/build
+-I
+/home/baraka/Code/learning/cpp/qml/basics/intro/build/Intro
+-I
+/home/baraka/Code/learning/cpp/qml/basics/intro/build
+-I
+/usr/lib/qt6/qml
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/intro/build/.qt/rcc/qmake_Intro.qrc
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/intro/build/.qt/rcc/appIntro_raw_qml_0.qrc
+/home/baraka/Code/learning/cpp/qml/basics/intro/Main.qml

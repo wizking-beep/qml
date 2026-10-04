@@ -1,0 +1,36 @@
+{
+    "classes": [
+        {
+            "className": "Teacher",
+            "lineNumber": 8,
+            "object": true,
+            "qualifiedClassName": "Teacher",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 15,
+                    "name": "taught",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 18,
+                    "name": "s_response",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "teacher.h",
+    "outputRevision": 69
+}

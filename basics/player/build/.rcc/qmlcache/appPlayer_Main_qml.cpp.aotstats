@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "/home/baraka/Code/learning/cpp/qml/basics/player/Main.qml"
+                }
+            ],
+            "moduleId": "Player(appPlayer)"
+        }
+    ]
+}

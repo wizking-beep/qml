@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Hello">
+    <file alias="qmldir">/home/baraka/Code/learning/cpp/qml/basics/helloqt/build/qmldir</file>
+  </qresource>
+</RCC>
+

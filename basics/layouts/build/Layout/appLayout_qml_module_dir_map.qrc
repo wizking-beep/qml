@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Layout">/home/baraka/Code/learning/cpp/qml/basics/layouts/build/Layout</file>
+
+  </qresource>
+</RCC>

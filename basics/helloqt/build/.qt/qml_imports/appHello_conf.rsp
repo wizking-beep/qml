@@ -1,0 +1,9 @@
+-rootPath
+/home/baraka/Code/learning/cpp/qml/basics/helloqt
+-cmake-output
+-output-file
+/home/baraka/Code/learning/cpp/qml/basics/helloqt/build/.qt/qml_imports/appHello_conf.cmake
+-importPath
+/home/baraka/Code/learning/cpp/qml/basics/helloqt/build
+-importPath
+/usr/lib/qt6/qml

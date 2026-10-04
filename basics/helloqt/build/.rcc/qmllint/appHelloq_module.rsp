@@ -1,0 +1,12 @@
+-I
+/home/baraka/Code/learning/cpp/qml/basics/helloqt/build
+-I
+/home/baraka/Code/learning/cpp/qml/basics/helloqt/build
+-I
+/usr/lib/qt6/qml
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/helloqt/build/.qt/rcc/qmake_Hello.qrc
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/helloqt/build/.qt/rcc/appHelloq_raw_qml_0.qrc
+--module
+Hello

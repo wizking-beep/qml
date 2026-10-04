@@ -1,0 +1,8 @@
+module Hello
+linktarget appHelloqplugin
+optional plugin appHelloqplugin
+classname HelloPlugin
+typeinfo appHelloq.qmltypes
+prefer :/qt/qml/Hello/
+Main 1.0 Main.qml
+

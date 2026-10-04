@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/baraka/Code/learning/cpp/qml/basics/layouts/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/baraka/Code/learning/cpp/qml/basics/layouts/build/appLayout_autogen/include -I/home/baraka/Code/learning/cpp/qml/basics/layouts -isystem /usr/include/qt6/QtQml -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtQmlIntegration -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtQuick -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtOpenGL -std=gnu++20 -mno-direct-extern-access -o CMakeFiles/appLayout.dir/appLayout_autogen/mocs_compilation.cpp.o -c /home/baraka/Code/learning/cpp/qml/basics/layouts/build/appLayout_autogen/mocs_compilation.cpp",
+  "file": "/home/baraka/Code/learning/cpp/qml/basics/layouts/build/appLayout_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/appLayout.dir/appLayout_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/baraka/Code/learning/cpp/qml/basics/layouts/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/baraka/Code/learning/cpp/qml/basics/layouts/build/appLayout_autogen/include -I/home/baraka/Code/learning/cpp/qml/basics/layouts -isystem /usr/include/qt6/QtQml -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtQmlIntegration -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtQuick -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtOpenGL -std=gnu++20 -mno-direct-extern-access -o CMakeFiles/appLayout.dir/main.cpp.o -c /home/baraka/Code/learning/cpp/qml/basics/layouts/main.cpp",
+  "file": "/home/baraka/Code/learning/cpp/qml/basics/layouts/main.cpp",
+  "output": "CMakeFiles/appLayout.dir/main.cpp.o"
+},
+{
+  "directory": "/home/baraka/Code/learning/cpp/qml/basics/layouts/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/baraka/Code/learning/cpp/qml/basics/layouts/build/appLayout_autogen/include -I/home/baraka/Code/learning/cpp/qml/basics/layouts -isystem /usr/include/qt6/QtQml -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtQmlIntegration -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtQuick -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtOpenGL -std=gnu++20 -mno-direct-extern-access -o CMakeFiles/appLayout.dir/applayout_qmltyperegistrations.cpp.o -c /home/baraka/Code/learning/cpp/qml/basics/layouts/build/applayout_qmltyperegistrations.cpp",
+  "file": "/home/baraka/Code/learning/cpp/qml/basics/layouts/build/applayout_qmltyperegistrations.cpp",
+  "output": "CMakeFiles/appLayout.dir/applayout_qmltyperegistrations.cpp.o"
+},
+{
+  "directory": "/home/baraka/Code/learning/cpp/qml/basics/layouts/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/baraka/Code/learning/cpp/qml/basics/layouts/build/appLayout_autogen/include -I/home/baraka/Code/learning/cpp/qml/basics/layouts -isystem /usr/include/qt6/QtQml -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtQmlIntegration -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtQuick -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtOpenGL -std=gnu++20 -mno-direct-extern-access -o CMakeFiles/appLayout.dir/build/.qt/rcc/qrc_qmake_Layout.cpp.o -c /home/baraka/Code/learning/cpp/qml/basics/layouts/build/.qt/rcc/qrc_qmake_Layout.cpp",
+  "file": "/home/baraka/Code/learning/cpp/qml/basics/layouts/build/.qt/rcc/qrc_qmake_Layout.cpp",
+  "output": "CMakeFiles/appLayout.dir/build/.qt/rcc/qrc_qmake_Layout.cpp.o"
+},
+{
+  "directory": "/home/baraka/Code/learning/cpp/qml/basics/layouts/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/baraka/Code/learning/cpp/qml/basics/layouts/build/appLayout_autogen/include -I/home/baraka/Code/learning/cpp/qml/basics/layouts -isystem /usr/include/qt6/QtQml -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtQmlIntegration -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtQuick -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtOpenGL -std=gnu++20 -mno-direct-extern-access -o CMakeFiles/appLayout.dir/build/.rcc/qmlcache/appLayout_qmlcache_loader.cpp.o -c /home/baraka/Code/learning/cpp/qml/basics/layouts/build/.rcc/qmlcache/appLayout_qmlcache_loader.cpp",
+  "file": "/home/baraka/Code/learning/cpp/qml/basics/layouts/build/.rcc/qmlcache/appLayout_qmlcache_loader.cpp",
+  "output": "CMakeFiles/appLayout.dir/build/.rcc/qmlcache/appLayout_qmlcache_loader.cpp.o"
+},
+{
+  "directory": "/home/baraka/Code/learning/cpp/qml/basics/layouts/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/baraka/Code/learning/cpp/qml/basics/layouts/build/appLayout_autogen/include -I/home/baraka/Code/learning/cpp/qml/basics/layouts -isystem /usr/include/qt6/QtQml -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtQmlIntegration -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtQuick -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtOpenGL -std=gnu++20 -mno-direct-extern-access -o CMakeFiles/appLayout.dir/build/.rcc/qmlcache/appLayout_Main_qml.cpp.o -c /home/baraka/Code/learning/cpp/qml/basics/layouts/build/.rcc/qmlcache/appLayout_Main_qml.cpp",
+  "file": "/home/baraka/Code/learning/cpp/qml/basics/layouts/build/.rcc/qmlcache/appLayout_Main_qml.cpp",
+  "output": "CMakeFiles/appLayout.dir/build/.rcc/qmlcache/appLayout_Main_qml.cpp.o"
+},
+{
+  "directory": "/home/baraka/Code/learning/cpp/qml/basics/layouts/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/baraka/Code/learning/cpp/qml/basics/layouts/build/appLayout_autogen/include -I/home/baraka/Code/learning/cpp/qml/basics/layouts -isystem /usr/include/qt6/QtQml -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtQmlIntegration -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/qt6/QtQuick -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtOpenGL -std=gnu++20 -mno-direct-extern-access -o CMakeFiles/appLayout.dir/build/.qt/rcc/qrc_appLayout_raw_qml_0.cpp.o -c /home/baraka/Code/learning/cpp/qml/basics/layouts/build/.qt/rcc/qrc_appLayout_raw_qml_0.cpp",
+  "file": "/home/baraka/Code/learning/cpp/qml/basics/layouts/build/.qt/rcc/qrc_appLayout_raw_qml_0.cpp",
+  "output": "CMakeFiles/appLayout.dir/build/.qt/rcc/qrc_appLayout_raw_qml_0.cpp.o"
+}
+]

@@ -1,0 +1,5 @@
+module MainModule
+typeinfo appHelloQML.qmltypes
+prefer :/qt/qml/MainModule/
+depends QtQuick
+

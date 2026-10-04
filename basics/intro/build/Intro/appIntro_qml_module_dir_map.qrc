@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Intro">/home/baraka/Code/learning/cpp/qml/basics/intro/build/Intro</file>
+
+  </qresource>
+</RCC>

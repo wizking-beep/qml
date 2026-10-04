@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/MainModule">
+    <file alias="qmldir">/home/baraka/Code/learning/cpp/qml/build/MainModule/qmldir</file>
+  </qresource>
+</RCC>
+

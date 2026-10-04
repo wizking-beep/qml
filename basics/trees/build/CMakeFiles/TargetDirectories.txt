@@ -1,0 +1,6 @@
+/home/baraka/Code/learning/cpp/qml/basics/trees/build/CMakeFiles/appobject.dir
+/home/baraka/Code/learning/cpp/qml/basics/trees/build/CMakeFiles/appobject_qmlimportscan.dir
+/home/baraka/Code/learning/cpp/qml/basics/trees/build/CMakeFiles/edit_cache.dir
+/home/baraka/Code/learning/cpp/qml/basics/trees/build/CMakeFiles/rebuild_cache.dir
+/home/baraka/Code/learning/cpp/qml/basics/trees/build/CMakeFiles/appobject_autogen_timestamp_deps.dir
+/home/baraka/Code/learning/cpp/qml/basics/trees/build/CMakeFiles/appobject_autogen.dir

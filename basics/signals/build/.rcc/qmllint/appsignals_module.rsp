@@ -1,0 +1,14 @@
+-I
+/home/baraka/Code/learning/cpp/qml/basics/signals/build
+-I
+/home/baraka/Code/learning/cpp/qml/basics/signals/build/signals
+-I
+/home/baraka/Code/learning/cpp/qml/basics/signals/build
+-I
+/usr/lib/qt6/qml
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/signals/build/.qt/rcc/qmake_signals.qrc
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/signals/build/.qt/rcc/appsignals_raw_qml_0.qrc
+--module
+signals

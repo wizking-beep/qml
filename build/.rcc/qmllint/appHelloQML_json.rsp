@@ -1,0 +1,16 @@
+--bare
+-I
+/home/baraka/Code/learning/cpp/qml/build
+-I
+/home/baraka/Code/learning/cpp/qml/build/MainModule
+-I
+/home/baraka/Code/learning/cpp/qml/build
+-I
+/usr/lib/qt6/qml
+--resource
+/home/baraka/Code/learning/cpp/qml/build/.qt/rcc/qmake_MainModule.qrc
+--resource
+/home/baraka/Code/learning/cpp/qml/build/.qt/rcc/appHelloQML_raw_qml_0.qrc
+/home/baraka/Code/learning/cpp/qml/testing/main.qml
+--json
+/home/baraka/Code/learning/cpp/qml/build/appHelloQML_qmllint.json

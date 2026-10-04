@@ -1,0 +1,5 @@
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/player/build/.qt/rcc/qmake_Player.qrc
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/player/build/.qt/rcc/appPlayer_raw_qml_0.qrc
+/qt/qml/Player/Main.qml

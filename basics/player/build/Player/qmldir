@@ -1,0 +1,6 @@
+module Player
+typeinfo appPlayer.qmltypes
+prefer :/qt/qml/Player/
+Main 1.0 Main.qml
+depends QtQuick
+

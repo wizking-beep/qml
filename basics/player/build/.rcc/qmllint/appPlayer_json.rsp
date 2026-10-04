@@ -1,0 +1,16 @@
+--bare
+-I
+/home/baraka/Code/learning/cpp/qml/basics/player/build
+-I
+/home/baraka/Code/learning/cpp/qml/basics/player/build/Player
+-I
+/home/baraka/Code/learning/cpp/qml/basics/player/build
+-I
+/usr/lib/qt6/qml
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/player/build/.qt/rcc/qmake_Player.qrc
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/player/build/.qt/rcc/appPlayer_raw_qml_0.qrc
+/home/baraka/Code/learning/cpp/qml/basics/player/Main.qml
+--json
+/home/baraka/Code/learning/cpp/qml/basics/player/build/appPlayer_qmllint.json

@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appHelloQML_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_MainModule.cpp"
+  ".rcc/qmlcache/appHelloQML_main_qml.cpp"
+  ".rcc/qmlcache/appHelloQML_main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appHelloQML_qmlcache_loader.cpp"
+  "CMakeFiles/appHelloQML.dir/link.d"
+  "CMakeFiles/appHelloQML_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appHelloQML_autogen.dir/ParseCache.txt"
+  "appHelloQML_autogen"
+  "CMakeFiles/appHelloQML.dir/appHelloQML_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/appHelloQML.dir/appHelloQML_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/appHelloQML.dir/apphelloqml_qmltyperegistrations.cpp.o"
+  "CMakeFiles/appHelloQML.dir/apphelloqml_qmltyperegistrations.cpp.o.d"
+  "CMakeFiles/appHelloQML.dir/build/.qt/rcc/qrc_appHelloQML_raw_qml_0.cpp.o"
+  "CMakeFiles/appHelloQML.dir/build/.qt/rcc/qrc_appHelloQML_raw_qml_0.cpp.o.d"
+  "CMakeFiles/appHelloQML.dir/build/.qt/rcc/qrc_qmake_MainModule.cpp.o"
+  "CMakeFiles/appHelloQML.dir/build/.qt/rcc/qrc_qmake_MainModule.cpp.o.d"
+  "CMakeFiles/appHelloQML.dir/build/.rcc/qmlcache/appHelloQML_main_qml.cpp.o"
+  "CMakeFiles/appHelloQML.dir/build/.rcc/qmlcache/appHelloQML_main_qml.cpp.o.d"
+  "CMakeFiles/appHelloQML.dir/build/.rcc/qmlcache/appHelloQML_qmlcache_loader.cpp.o"
+  "CMakeFiles/appHelloQML.dir/build/.rcc/qmlcache/appHelloQML_qmlcache_loader.cpp.o.d"
+  "CMakeFiles/appHelloQML.dir/main.cpp.o"
+  "CMakeFiles/appHelloQML.dir/main.cpp.o.d"
+  "MainModule/appHelloQML.qmltypes"
+  "appHelloQML"
+  "appHelloQML.pdb"
+  "appHelloQML_autogen/mocs_compilation.cpp"
+  "appHelloQML_autogen/timestamp"
+  "apphelloqml_qmltyperegistrations.cpp"
+  "meta_types/appHelloQML_json_file_list.txt"
+  "meta_types/appHelloQML_json_file_list.txt.timestamp"
+  "meta_types/qt6apphelloqml_metatypes.json"
+  "meta_types/qt6apphelloqml_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appHelloQML.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

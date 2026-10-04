@@ -1,0 +1,14 @@
+-rootPath
+/home/baraka/Code/learning/cpp/qml/basics/player
+-cmake-output
+-output-file
+/home/baraka/Code/learning/cpp/qml/basics/player/build/.qt/qml_imports/appPlayer_conf.cmake
+-importPath
+/home/baraka/Code/learning/cpp/qml/basics/player/build
+-importPath
+/home/baraka/Code/learning/cpp/qml/basics/player/build/Player
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/baraka/Code/learning/cpp/qml/basics/player/build/.qt/rcc/qmake_Player.qrc
+/home/baraka/Code/learning/cpp/qml/basics/player/build/.qt/rcc/appPlayer_raw_qml_0.qrc

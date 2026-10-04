@@ -1,0 +1,5 @@
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/signals/build/.qt/rcc/qmake_signals.qrc
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/signals/build/.qt/rcc/appsignals_raw_qml_0.qrc
+/qt/qml/signals/Main.qml

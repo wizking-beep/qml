@@ -1,0 +1,6 @@
+module Intro
+typeinfo appIntro.qmltypes
+prefer :/qt/qml/Intro/
+Main 1.0 Main.qml
+depends QtQuick
+

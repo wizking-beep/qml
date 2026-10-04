@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Hello">/home/baraka/Code/learning/cpp/qml/basics/helloqt/build</file>
+
+  </qresource>
+</RCC>

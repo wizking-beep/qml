@@ -1,0 +1,6 @@
+module Layout
+typeinfo appLayout.qmltypes
+prefer :/qt/qml/Layout/
+Main 1.0 Main.qml
+depends QtQuick
+

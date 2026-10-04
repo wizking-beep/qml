@@ -1,0 +1,6 @@
+module signals
+typeinfo appsignals.qmltypes
+prefer :/qt/qml/signals/
+Main 254.0 Main.qml
+depends QtQuick
+

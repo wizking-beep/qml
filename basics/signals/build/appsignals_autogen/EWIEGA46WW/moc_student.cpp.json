@@ -1,0 +1,36 @@
+{
+    "classes": [
+        {
+            "className": "Student",
+            "lineNumber": 5,
+            "object": true,
+            "qualifiedClassName": "Student",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 12,
+                    "name": "learnt",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 15,
+                    "name": "learn",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "student.h",
+    "outputRevision": 69
+}

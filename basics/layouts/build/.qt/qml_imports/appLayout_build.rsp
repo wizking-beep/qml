@@ -1,0 +1,14 @@
+-rootPath
+/home/baraka/Code/learning/cpp/qml/basics/layouts
+-cmake-output
+-output-file
+/home/baraka/Code/learning/cpp/qml/basics/layouts/build/.qt/qml_imports/appLayout_build.cmake
+-importPath
+/home/baraka/Code/learning/cpp/qml/basics/layouts/build
+-importPath
+/home/baraka/Code/learning/cpp/qml/basics/layouts/build/Layout
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/baraka/Code/learning/cpp/qml/basics/layouts/build/.qt/rcc/qmake_Layout.qrc
+/home/baraka/Code/learning/cpp/qml/basics/layouts/build/.qt/rcc/appLayout_raw_qml_0.qrc

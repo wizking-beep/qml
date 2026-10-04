@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+accb6129c810a9a8b7f2b84bb268d964 .qt/qml_imports/appobject_build.cmake
+2b68aef54a2b7de7e67824b43e42835b CMakeFiles/appobject_autogen
+2b68aef54a2b7de7e67824b43e42835b CMakeFiles/appobject_qmlimportscan
+e452e3a8b075dce0ce24125229f75552 appobject_autogen/timestamp

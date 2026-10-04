@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Player/">
+    <file alias="Main.qml">/home/baraka/Code/learning/cpp/qml/basics/player/Main.qml</file>
+  </qresource>
+</RCC>
+

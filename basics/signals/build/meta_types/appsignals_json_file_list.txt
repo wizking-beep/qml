@@ -1,0 +1,2 @@
+/home/baraka/Code/learning/cpp/qml/basics/signals/build/appsignals_autogen/include/../EWIEGA46WW/moc_student.cpp.json
+/home/baraka/Code/learning/cpp/qml/basics/signals/build/appsignals_autogen/include/../EWIEGA46WW/moc_teacher.cpp.json

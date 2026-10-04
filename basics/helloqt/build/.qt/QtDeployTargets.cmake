@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_appHello_FILE /home/baraka/Code/learning/cpp/qml/basics/helloqt/build/appHello)
+set(__QT_DEPLOY_TARGET_appHello_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appHelloq_FILE /home/baraka/Code/learning/cpp/qml/basics/helloqt/build/libappHelloq.so)
+set(__QT_DEPLOY_TARGET_appHelloq_TYPE SHARED_LIBRARY)
+set(__QT_DEPLOY_TARGET_appHelloqplugin_FILE /home/baraka/Code/learning/cpp/qml/basics/helloqt/build/libappHelloqplugin.so)
+set(__QT_DEPLOY_TARGET_appHelloqplugin_TYPE MODULE_LIBRARY)

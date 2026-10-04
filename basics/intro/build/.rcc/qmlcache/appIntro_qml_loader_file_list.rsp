@@ -1,0 +1,5 @@
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/intro/build/.qt/rcc/qmake_Intro.qrc
+--resource
+/home/baraka/Code/learning/cpp/qml/basics/intro/build/.qt/rcc/appIntro_raw_qml_0.qrc
+/qt/qml/Intro/Main.qml
